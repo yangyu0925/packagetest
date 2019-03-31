@@ -1,0 +1,15 @@
+{
+    "name": "yangyu/packagetest",
+    "authors": [
+        {
+            "name": "yangyu",
+            "email": "172964776@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Yangyu\\Packagetest\\": "src/"
+        }
+    },
+    "require": {}
+}
